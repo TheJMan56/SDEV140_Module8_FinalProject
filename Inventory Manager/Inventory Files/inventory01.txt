@@ -1,0 +1,4 @@
+0000 Boots Footwear 20.0 5.0 100.0
+0001 Diapers Infant 200.0 30.0 6000.0
+A000 Licorice Candy 100.0 2.0 200.0
+AA00 Shoes Footwear 20.0 3.0 60.0

@@ -1,0 +1,4 @@
+0000 Sandals Footwear 100.0 5.0 500.0
+0005 High-Heels Footwear 100.0 20.0 2000.0
+0010 Boots Footwear 100.0 15.0 1500.0
+0025 Sneakers Footwear 100.0 10.0 1000.0
